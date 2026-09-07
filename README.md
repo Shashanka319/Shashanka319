@@ -37,10 +37,10 @@
 ### 🛠️ Tech Stack & Skills
 
 **Backend & Architecture**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Core](https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices%20(REST)-005571?style=for-the-badge&logoColor=white)
-![Servlets & JSP](https://img.shields.io/badge/Servlets%20%26%20JSP-333333?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&align="center")
+![Spring Core](https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white&align="center")
+![Microservices](https://img.shields.io/badge/Microservices%20(REST)-005571?style=for-the-badge&logoColor=white&align="center")
+![Servlets & JSP](https://img.shields.io/badge/Servlets%20%26%20JSP-333333?style=for-the-badge&logoColor=white&align="center")
 
 **Databases & Persistence**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
