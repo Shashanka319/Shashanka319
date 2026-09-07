@@ -22,11 +22,16 @@
 - 💬 **Ask Me About:** Java, Spring Core, REST APIs, MySQL, and Web Basics (HTML/CSS/JavaScript).
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/shashank-k-shashank-k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sharathshashank1986@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/Shashanka319" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
 ---
 
 ### 🛠️ Tech Stack & Skills
