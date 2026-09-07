@@ -82,7 +82,6 @@
 
 ---
 
-
 ### 📈 Engineering Activity
 
 <p align="center">
@@ -90,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2E90FA/Shashanka319" alt="Shashank's GitHub Contributions Chart" />
+  <img src="https://raw.githubusercontent.com/Shashanka319/Shashanka319/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
