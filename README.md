@@ -21,7 +21,7 @@
 - 🤝 **Open To:** Entry-level Software Engineer, Java Backend Developer, and Full-Stack roles.
 - 💬 **Ask Me About:** Java, Spring Core, REST APIs, MySQL, and Web Basics (HTML/CSS/JavaScript).
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shashank-k-shashank-k/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
