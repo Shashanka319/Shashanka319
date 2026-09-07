@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2E90FA/Shashanka319" alt="Shashank's Contribution Grid" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shashanka319&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
