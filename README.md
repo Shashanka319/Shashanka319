@@ -34,39 +34,38 @@
 </p>
 ---
 
-<div align="center">
-
 ### 🛠️ Tech Stack & Skills
 
-<br/>
+**Backend & Architecture**
 
-**Backend & Architecture**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Core](https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices%20(REST)-005571?style=for-the-badge&logoColor=white)
-![Servlets & JSP](https://img.shields.io/badge/Servlets%20%26%20JSP-333333?style=for-the-badge&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Core" />
+  <img src="https://img.shields.io/badge/Microservices%20(REST)-005571?style=for-the-badge&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Servlets%20%26%20JSP-333333?style=for-the-badge&logoColor=white" alt="Servlets & JSP" />
+</p>
 
-<br/><br/>
+**Databases & Persistence**
 
-**Databases & Persistence**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logoColor=white" alt="JDBC" />
+</p>
 
-<br/><br/>
+**Frontend Basics**
 
-**Frontend Basics**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-<br/><br/>
+**Tools & Version Control**
 
-**Tools & Version Control**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 ### 📈 GitHub Stats
 
 <p align="center">
