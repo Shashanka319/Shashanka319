@@ -82,6 +82,7 @@
 
 ---
 
+
 ### 📈 Engineering Activity
 
 <p align="center">
@@ -89,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashanka319&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/2E90FA/Shashanka319" alt="Shashank's GitHub Contributions Chart" />
 </p>
 
 <p align="center">
