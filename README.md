@@ -89,5 +89,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashanka319&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Shashanka319&show_icons=true&theme=tokyonight&hide_border=false&hide_rank=true" alt="GitHub Stats" />
 </p>
