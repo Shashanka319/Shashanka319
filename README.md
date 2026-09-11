@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Core" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SpringBoot" />
+  <img src="https://img.shields.io/badge/Spring_Boot-46802C?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Microservices%20(REST)-005571?style=for-the-badge&logoColor=white" alt="Microservices" />
   <img src="https://img.shields.io/badge/Servlets%20%26%20JSP-333333?style=for-the-badge&logoColor=white" alt="Servlets & JSP" />
 </p>
